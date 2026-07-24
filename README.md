@@ -1,6 +1,6 @@
 # GymTracker API
 
-Backend de GymTracker, una aplicación fullstack para gestionar rutinas y ejercicios de gimnasio. Desarrollado con Node.js, Express y MongoDB siguiendo el patrón Repository.
+Backend de GymTracker, una aplicación fullstack para gestionar rutinas y ejercicios de gimnasio. Desarrollado con Node.js, Express y MongoDB.
 
 ## Tecnologías
 
