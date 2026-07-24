@@ -1,0 +1,16 @@
+name,description,daysPerWeek,goal,difficulty,targetAudience
+Full Body Principiante,Rutina de cuerpo completo ideal para quien empieza. Tocamos todos los grupos musculares en cada sesión.,3,strength,beginner,Personas que empiezan a entrenar
+Torso-Pierna Intermedio,Dividimos el entreno en días de tren superior e inferior. Buena frecuencia para ganar masa muscular.,4,hypertrophy,intermediate,Personas con 6-12 meses de experiencia
+Push-Pull-Legs,La rutina más popular para ganar músculo. Dividimos por patrones de movimiento.,6,hypertrophy,advanced,Personas con más de un año entrenando
+Definición Verano,Combinamos pesas y cardio para perder grasa manteniendo el músculo.,5,weight-loss,intermediate,Personas que quieren perder grasa
+Fuerza Máxima,"Basada en los tres levantamientos principales. Pocas reps, mucho peso.",4,strength,advanced,Personas que quieren aumentar su fuerza máxima
+Resistencia y Cardio,Entrenamiento orientado a mejorar la resistencia cardiovascular.,5,endurance,beginner,Personas que quieren mejorar su cardio
+Upper Body Intensivo,Solo tren superior. Ideal para complementar otro deporte que trabaje piernas.,4,hypertrophy,intermediate,Personas que practican ciclismo o running
+Glúteos y Piernas,Rutina enfocada en la parte inferior del cuerpo con énfasis en glúteo.,4,hypertrophy,beginner,Personas que quieren trabajar el tren inferior
+Core y Funcional,Fortalecemos el núcleo y mejoramos el movimiento funcional.,3,endurance,beginner,Personas que quieren mejorar su postura y estabilidad
+Atletismo y Explosividad,Entrenamiento orientado a la potencia y la velocidad.,4,strength,advanced,Deportistas que necesitan explosividad
+Mantenimiento Express,Rutina corta para días con poco tiempo. Mantenemos el nivel sin excesos.,3,strength,beginner,Personas con poco tiempo disponible
+Hipertrofia Avanzada,Volumen alto con técnicas avanzadas como drop sets y superseries.,5,hypertrophy,advanced,Personas con más de 2 años entrenando
+Pérdida de Peso Intensiva,Alta intensidad y poco descanso para maximizar el gasto calórico.,5,weight-loss,intermediate,Personas con sobrepeso que quieren adelgazar
+Fuerza para Principiantes,Aprendemos los movimientos básicos con poco peso y muchas repeticiones.,3,strength,beginner,Personas que empiezan de cero
+Programa de Rehabilitación,Ejercicios suaves para recuperarse de lesiones o volver después de un parón.,3,endurance,beginner,Personas en proceso de recuperación
